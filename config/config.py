@@ -1,0 +1,7 @@
+BASE_URL = "https://demowebshop.tricentis.com/"
+REGISTER_URL = f"{BASE_URL}register"
+COMPUTERS_URL = f"{BASE_URL}computers"
+LOGIN_URL = f"{BASE_URL}login"
+BOOKS_URL = f"{BASE_URL}books"
+CART_URL = f"{BASE_URL}cart"
+WISHLIST_URL = f"{BASE_URL}wishlist"
